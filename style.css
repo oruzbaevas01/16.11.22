@@ -27,3 +27,11 @@ a:hover{
   text-decoration: underline;
   transition: all;
 }
+header p{
+  background-image: url(./photo.jpg);
+  color: rgb(215, 245, 250);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
