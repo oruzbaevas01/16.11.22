@@ -1,0 +1,23 @@
+nav {
+  box-sizing: border-box;
+  background-color: rgb(78, 138, 203);
+}
+nav ul{
+  padding:none ;
+  margin: none;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+body{
+  margin: 0;
+}
+nav a{
+  padding: 25px;
+  display: inline-block;
+  color:white;
+}
+a:hover{
+  background-color: rgb(130, 223, 139);
+  color: azure;
+}
